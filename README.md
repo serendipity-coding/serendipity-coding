@@ -1,12 +1,13 @@
 ### Hi there, I'm Amira ! 👋
 
 
-## I'm a Full Stack developper 
 
+  ## I'm a Full Stack developper <img src="https://user-images.githubusercontent.com/56723353/96975773-3b697780-151b-11eb-8eba-e20a909fe344.png" align="right" width="200" height="200">
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love hiking, waterpainting and COFFEE :coffee:
+
 
 
 <br />
