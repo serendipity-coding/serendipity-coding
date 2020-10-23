@@ -2,7 +2,7 @@
 
 
 
-  ## I'm a Full Stack developper <img src="https://user-images.githubusercontent.com/56723353/96975773-3b697780-151b-11eb-8eba-e20a909fe344.png" align="right" width="200" height="200">
+  ## I'm a Full Stack developper <img src="https://user-images.githubusercontent.com/56723353/96994369-ec2c4280-152c-11eb-888a-9a5eae76ce64.png" align="right" width="200" height="200">
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
