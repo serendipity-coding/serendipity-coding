@@ -3,7 +3,7 @@
 
 
   ## I'm a Full Stack developper <img src="https://user-images.githubusercontent.com/56723353/96994369-ec2c4280-152c-11eb-888a-9a5eae76ce64.png" align="right" width="200" height="200">
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love hiking, waterpainting and COFFEE :coffee:
