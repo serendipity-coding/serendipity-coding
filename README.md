@@ -28,6 +28,7 @@
   <br/>
   <br/>
   
+  <img align="left" alt="Node.js" width="60px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F600%2F1*RCeGDSIqqW68bS5kYucTvA.png&imgrefurl=https%3A%2F%2Fwww.apollographql.com%2Fblog%2Fcommunity%2Fseamless-integration-for-graphql-and-react-6ffc0ad3fead%2F&tbnid=D9svc9gHOXvA1M&vet=12ahUKEwiFx6H54Lb2AhWS8rsIHduoD8AQMygVegUIARDPAQ..i&docid=TSGojmjP8o9-7M&w=600&h=300&q=graphql%20logo%20transparent&client=firefox-b-d&ved=2ahUKEwiFx6H54Lb2AhWS8rsIHduoD8AQMygVegUIARDPAQ" />
   <img align="left" alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
